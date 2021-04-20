@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Oracle Japan OSS Documents
 
+Oracle Corporationが提供するオープンソース製品からピックアップし、日本語ドキュメントを提供します。
 You can use the [editor on GitHub](https://github.com/takashi-oracle/md_test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
